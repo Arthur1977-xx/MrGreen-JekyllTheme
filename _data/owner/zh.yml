@@ -8,7 +8,7 @@ brand: "黎鸿海"
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "你的名字"
+name: "黎鸿海"
 
 # home page top header texts
 home:
@@ -48,7 +48,7 @@ meta_common_description: "你的自述。"
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
+  - github: "Arthur1977-xx"
   #- email: ""
   #- linkedin: ""
   #- twitter: ""
